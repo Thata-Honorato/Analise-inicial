@@ -1,4 +1,4 @@
-# Sprint 01 – Introdução à Análise de Dados
+# Sprint 01 – Python básico
 
 ## Descrição do Projeto
 
