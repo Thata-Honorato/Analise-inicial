@@ -25,4 +25,4 @@ Realizar a primeira análise exploratória de dados, compreendendo tipos de dado
 2. Resolver cada tarefa com código próprio e comentários explicativos;
 3. Revisar todas as etapas para garantir clareza e funcionalidade do código.
 
-Os notebooks originais estão hospedados na plataforma TripleTen e não podem ser baixados.
+Os notebooks originais estão hospedados na plataforma TripleTen,e anexados nesse projeto.
